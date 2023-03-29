@@ -1,4 +1,4 @@
-# BIG4 SOCIAL MEDIA 2fa-bypass
+<h1 align="center"> BIG 4 SOCIAL MEDIA </h1>
 <p align="center">
 <img alt="DEDSEC SNIFFER TOOL" src="https://github.com/0xbitx/Top4-Social-Media-/blob/master/project.png" style="max-width:100%;max-height:100%;" />
 </p>
@@ -46,3 +46,7 @@ bash project.sh
 ```
 ./project.sh
 ```
+
+<h1 align="center"> DISCLAIMER </h1>
+
+<h4 align="center">I'm not responsible for anything you do with this program, so please only use it for good and educational purposes. </h4>
