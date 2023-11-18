@@ -40,6 +40,6 @@ read -p $'\e[1;91m[\e[0m\e[1;77m+\e[0m\e[1;91m]\e[0m\e[1;96m Enter The Ngrok Tok
 $token
 sleep2
 clear
-echo "   Installation Successfull  "
+echo "  Installation Successfull  "
 sleep 4
 clear
