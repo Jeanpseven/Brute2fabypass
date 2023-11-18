@@ -5,7 +5,7 @@ echo ""
 echo ""
 echo ""
 echo ""
-echo " ENTER NGROK ""
+echo " ENTER NGROK "
 sleep 2
 clear
 echo ""
